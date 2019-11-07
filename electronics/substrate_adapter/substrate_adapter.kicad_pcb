@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 8)
+    (drawings 10)
     (tracks 57)
     (zones 0)
     (modules 18)
@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 1)
+    (last_trace_width 0.25)
     (user_trace_width 1)
     (trace_clearance 0.2)
     (zone_clearance 0.508)
@@ -618,6 +618,12 @@
     )
   )
 
+  (gr_text 45f1e60 (at -7 12) (layer B.SilkS) (tstamp 5DC47E7F)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text 45f1e60 (at -7 12) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_line (start 8 8) (end -8 8) (layer Edge.Cuts) (width 0.05) (tstamp 5DC3D41D))
   (gr_line (start 8 -8) (end 8 8) (layer Edge.Cuts) (width 0.05))
   (gr_line (start -8 -8) (end 8 -8) (layer Edge.Cuts) (width 0.05))
