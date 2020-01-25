@@ -1,0 +1,23 @@
+Subsystem,Description,Source,Item #,Quantity
+,substrate adapter PCBs,jlcpcb.com,n/a,20
+,spring pins,mouser.co.uk,575-0964015208514110,320
+,adapter board headers,mouser.co.uk,855-M22-2511205,40
+,crossbar PCBs,jlcpcb.com,n/a,8
+,mux panel mount connector,mouser.co.uk,651-1829413,1
+,mux panel mount connector plug,mouser.co.uk,651-1777989,1
+,internal mux ribbon cable,mouser.co.uk,200-IDSD07D1500TG,10
+,crossbar receptacles,mouser.co.uk,200-SQT11203FD,40
+,baseboard PCBs,jlcpcb.com,n/a,4
+,relay boards,ncd.io,PR2B-16-1A,3
+,ethernet cables,,,6
+,custom hat kit for arduino,mouser.co.uk,872-206-0002-02,1
+,arduino ethernet shield with POE,mouser.co.uk,782-A000025,1
+,arduino mega,mouser.co.uk,782-A000067,1
+,RJ-45 tee,mouser.co.uk,601-32-1018 ,1
+,arduino relay shield,mouser.co.uk,782-A000110 ,1
+,logic voltage level translator,mouser.co.uk,474-BOB-11955 ,1
+,Pre-crimped 3m i2c lead,mouser.co.uk,538-79758-2024,4
+,TWI connector,mouser.co.uk,538-22-01-3047,1
+,motor RJ-45 adapter,ustepper.com,uStepper 3D Shield,2
+,motor,ustepper.com,,2
+,motor driver,ustepper.com,uStepper S,2
