@@ -21,3 +21,5 @@ Subsystem,Description,Source,Item #,Quantity
 ,motor RJ-45 adapter,ustepper.com,uStepper 3D Shield,2
 ,motor,ustepper.com,,2
 ,motor driver,ustepper.com,uStepper S,2
+,PCB edge connectors,samtec.com,MECF-20-01-L-DV-NP,10
+,arduino enclosure,uk.rs-online.com,193-6812,1
